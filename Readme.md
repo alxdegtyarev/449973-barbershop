@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Alexey Degtyarev](https://up.htmlacademy.ru/htmlcss/22/user/449973).
-
+* Наставник: [Dmitriy Batmanov](https://htmlacademy.ru/profile/id10964).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
